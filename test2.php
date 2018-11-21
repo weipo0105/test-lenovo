@@ -1,2 +1,2 @@
 <?php
-echo lenovo-PCtest';
+echo 'lenovo-PCtest';
